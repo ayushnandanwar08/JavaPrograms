@@ -3,7 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 // stone, paper and scissor game
-public class ps4_rock_scissor_gaem {
+public class ps4_rock_scissor_game {
     public static void main(String[] args) {
         Random random = new Random();
         Scanner sc = new Scanner(System.in);
